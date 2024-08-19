@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\total_in_ararry\bin\Debug\net7.0\total_in_ararry.exe
+C:\Users\ASUS\Desktop\total_in_ararry\bin\Debug\net7.0\total_in_ararry.deps.json
+C:\Users\ASUS\Desktop\total_in_ararry\bin\Debug\net7.0\total_in_ararry.runtimeconfig.json
+C:\Users\ASUS\Desktop\total_in_ararry\bin\Debug\net7.0\total_in_ararry.dll
+C:\Users\ASUS\Desktop\total_in_ararry\bin\Debug\net7.0\total_in_ararry.pdb
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\total_in_ararry.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\total_in_ararry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\total_in_ararry.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\total_in_ararry.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\total_in_ararry.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\total_in_ararry.dll
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\refint\total_in_ararry.dll
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\total_in_ararry.pdb
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\total_in_ararry.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\total_in_ararry\obj\Debug\net7.0\ref\total_in_ararry.dll
